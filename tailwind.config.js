@@ -15,7 +15,7 @@ export default {
         screens: {
           DEFAULT: "100%",
           tablet: "680px",
-          desktop: "1170px",
+          desktop: "1280px",
         },
       },
       colors: {
@@ -26,8 +26,6 @@ export default {
       boxShadow: {
         "custom-shadow": "34.85px 29.63px 48.34px 0px #3366ff0d",
       },
-
-      
     },
   },
   plugins: [],
